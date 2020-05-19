@@ -1,0 +1,57 @@
+html {
+	background-color: #f8fccc;
+}
+
+a {
+	float: right;
+	text-align: right;
+	padding-right: 20px;
+	font-weight: bold;
+	font-size: 18px;
+	font-family: Arial;
+}
+
+#home {
+	text-align: center;
+	color: #018a58;
+	margin-top: 30px;
+}
+
+h1, h3 {
+	text-align: center;
+	color: #018a58;
+	margin-top: 80px;
+}
+
+h3 {
+	margin-top: 80px;
+}
+
+#search {
+	margin: 20px;
+	text-align: center;
+}
+
+#search > input {
+	height: 35px;
+	width: 220px;
+}
+
+#search > button {
+	margin: 5px;
+	border-radius: 3px;
+	height: 34px;
+	width: 70px;
+	font-family: Times New Roman;
+	font-size: 18px;
+}
+
+#login, #register {
+	text-align: center;
+}
+
+#login > button, #register > button {
+	 height: 30px;
+	 width: 70px;
+	 font-size: 16px;
+}
